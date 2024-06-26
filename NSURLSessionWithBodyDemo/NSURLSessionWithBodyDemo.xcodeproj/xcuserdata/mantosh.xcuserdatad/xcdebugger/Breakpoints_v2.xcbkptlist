@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "01A5D720-8EA4-4B50-8CCF-DAAD8F8BBFE6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AD73349-817A-47C8-AD00-FB6BA92176C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSURLSessionWithBodyDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "updateViewWithData(responseData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91E31576-8AA7-441E-8871-4FA9B32D052E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSURLSessionWithBodyDemo/EndPoint/EndPoint.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "getDataFromHttpCall(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51339A25-E3BD-4E23-8E6C-B4DAF3D9878D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSURLSessionWithBodyDemo/EndPoint/EndPoint.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "getDataFromHttpCall(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3BD8502-ED6E-4739-8AF5-40A148AA43F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSURLSessionWithBodyDemo/EndPoint/EndPoint.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "getDataFromHttpCall(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3BD8502-ED6E-4739-8AF5-40A148AA43F2 - 99590c156b4d14a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NSURLSessionWithBodyDemo.NetworkManager.getDataFromHttpCall(completionHandler: (NSURLSessionWithBodyDemo.ResponseData, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "NSURLSessionWithBodyDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mantosh/Documents/Project/CodeBackUp/MYDemos/NSURLSessionWithBodyDemo/NSURLSessionWithBodyDemo/EndPoint/EndPoint.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "2096">
+               </Location>
+               <Location
+                  uuid = "C3BD8502-ED6E-4739-8AF5-40A148AA43F2 - a4a526b6fd66a834"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NSURLSessionWithBodyDemo.NetworkManager.getDataFromHttpCall(completionHandler: (NSURLSessionWithBodyDemo.ResponseData, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "NSURLSessionWithBodyDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mantosh/Documents/Project/CodeBackUp/MYDemos/NSURLSessionWithBodyDemo/NSURLSessionWithBodyDemo/EndPoint/EndPoint.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D234007A-13AB-44BB-B75E-E3B6A6E4CF3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NSURLSessionWithBodyDemo/EndPoint/EndPoint.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "getDataFromHttpCall(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
