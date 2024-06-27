@@ -1,6 +1,6 @@
 # NSURLSession With Body
 
-BluetoothCurrentStatusDemo is the used to see current status of bluetooth 
+NSURLSessionWithBodyDemo is the used to see current status of bluetooth 
 
 ## Usage
 
@@ -18,4 +18,4 @@ Used in this:
 
 ## License
 
-BluetoothCurrentStatusDemo is public to use.
+NSURLSessionWithBodyDemo is public to use.
