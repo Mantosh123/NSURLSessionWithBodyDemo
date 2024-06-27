@@ -1,6 +1,6 @@
 # NSURLSession With Body
 
-NSURLSessionWithBodyDemo is the used to see current status of bluetooth 
+NSURLSessionWithBodyDemo is a way to call api with paramiter as body 
 
 ## Usage
 
